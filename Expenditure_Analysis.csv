@@ -1,0 +1,41 @@
+No.,Constituency,Turnout_2019,Turnout_2014,Winner,Expenditure,WinnerParty,Runner-up,Expenditure2,RunnerupParty,Margin,diff,diff_voters
+1,Valmiki Nagar,61.98,61.8,Baidyanath Prasad Mahto,4926940,Janata Dal (United),Shashwat Kedar,4743342,Indian National Congress,354616,183598,0.18
+2,Paschim Champaran,62.02,60.49,Sanjay Jaiswal,6152013,Bharatiya Janata Party,Brijesh Kumar Kushwaha,3971295,Rashtriya Lok Samta Party,293906,2180718,1.53
+3,Purvi Champaran,60.3,57.16,Radha Mohan Singh,5301644,Bharatiya Janata Party,Akash Kumar Singh,4389473,Rashtriya Lok Samta Party,293648,912171,3.14
+4,Sheohar,59.6,56.73,Rama Devi,5315659,Bharatiya Janata Party,Syed Faisal Ali,4621942,Rashtriya Janata Dal,340360,693717,2.87
+5,Sitamarhi,59.38,57.18,Sunil Kumar Pintu,6750385,Janata Dal (United),Arjun Rai,4006351,Rashtriya Janata Dal,250539,2744034,2.2
+6,Madhubani,53.81,52.86,Ashok Kumar Yadav,4449323,Bharatiya Janata Party,Badri Kumar Purbey,4671000,Vikassheel Insaan Party,454940,-221677,0.95
+7,Jhanjharpur,57.35,56.42,Ramprit Mandal,4982659,Janata Dal (United),Gulab Yadav,5239197,Rashtriya Janata Dal,322951,-256538,0.93
+8,Supaul,65.72,63.62,Dileshwar Kamait,6319257,Janata Dal (United),Ranjeet Ranjan,5496235,Indian National Congress,266853,823022,2.1
+9,Araria,64.79,61.48,Pradeep Kumar Singh,6146911,Bharatiya Janata Party,Sarfaraz Alam,6029638,Rashtriya Janata Dal,137241,117273,3.31
+10,Kishanganj,66.38,64.52,Mohammad Jawed,4324395,Indian National Congress,Syed Mahmood Ashraf,3484670,Janata Dal (United),34466,839725,1.86
+11,Katihar,67.64,67.6,Dulal Chandra Goswami,4364559,Janata Dal (United),Tariq Anwar,4778071,Indian National Congress,57203,-413512,0.04
+12,Purnia,65.37,64.31,Santosh Kumar,5725774,Janata Dal (United),Uday Singh,6449736,Indian National Congress,263461,-723962,1.06
+13,Madhepura,60.89,59.96,Dinesh Chandra Yadav,6667074,Janata Dal (United),Sharad Yadav,6044015,Rashtriya Janata Dal,301527,623059,0.93
+14,Darbhanga,58.35,55.45,Gopal Jee Thakur,5630248,Bharatiya Janata Party,Abdul Bari Siddiqui,4570663,Rashtriya Janata Dal,267979,1059585,2.9
+15,Muzaffarpur,61.17,61.17,Ajay Nishad,6590009,Bharatiya Janata Party,Raj Bhushan Singh,3908531,Vikassheel Insaan Party,409988,2681478,0
+16,Vaishali,61.19,59.12,Veena Devi,6549474,Lok Janshakti Party,Raghuvansh Prasad Singh,3548972,Rashtriya Janata Dal,234584,3000502,2.07
+17,Gopalganj,55.78,54.6,Alok Kumar Suman,5824310,Janata Dal (United),Surendra Ram,5989058,Rashtriya Janata Dal,286434,-164748,1.18
+18,Siwan,54.73,56.53,Kavita Singh,6322491,Janata Dal (United),Hena Shahab,5917350,Rashtriya Janata Dal,116958,405141,-1.8
+19,Maharajganj,53.82,51.57,Janardan Singh Sigriwal,5740773,Bharatiya Janata Party,Randhir Kumar Singh,5460826,Rashtriya Janata Dal,230772,279947,2.25
+20,Saran,56.6,56.12,Rajiv Pratap Rudy,4495000,Bharatiya Janata Party,Chandrika Roy,3714375,Rashtriya Janata Dal,138429,780625,0.48
+21,Hajipur,55.26,54.91,Pashupati Kumar Paras,4613314,Lok Janshakti Party,Shiv Chandra Ram,3101190,Rashtriya Janata Dal,205449,1512124,0.35
+22,Ujiarpur,60.15,60.22,Nityanand Rai,5622155,Bharatiya Janata Party,Upendra Kushwaha,4540261,Rashtriya Lok Samta Party,277278,1081894,-0.07
+23,Samastipur,60.74,57.38,Ram Chandra Paswan,3489084,Lok Janshakti Party,Dr. Ashok Kumar,5074757,Indian National Congress,251643,-1585673,3.36
+24,Begusarai,62.63,60.61,Giriraj Singh,6326091,Bharatiya Janata Party,Kanhaiya Kumar,6622883,Communist Party of India,422217,-296792,2.02
+25,Khagaria,57.71,59.49,Mehboob Ali Kaiser,5795421,Lok Janshakti Party,Mukesh Sahani,4455888,Vikassheel Insaan Party,248570,1339533,-1.78
+26,Bhagalpur,57.2,57.8,Ajay Kumar Mandal,6250000,Janata Dal (United),Shailesh Kumar,5106723,Rashtriya Janata Dal,277630,1143277,-0.6
+27,Banka,58.6,58.04,Giridhari Yadav,5644601,Janata Dal (United),Jay Prakash Narayan Yadav,4097362,Rashtriya Janata Dal,200532,1547239,0.56
+28,Munger,54.9,53.17,Rajiv Ranjan Singh,6779936,Janata Dal (United),Nilam Devi,5345282,Indian National Congress,167937,1434654,1.73
+29,Nalanda,54.79,47.23,Kaushalendra Kumar,5264561,Janata Dal (United),Ashok Kumar Azad,3407400,Hindustani Awam Morcha,256137,1857161,7.56
+30,Patna Sahib,45.8,45.36,Ravi Shankar Prasad,3789559,Bharatiya Janata Party,Shatrughan Sinha,1477195,Indian National Congress,284657,2312364,0.44
+31,Pataliputra,56.03,56.36,Ram Kripal Yadav,6477187,Bharatiya Janata Party,Misa Bharti,4638135,Rashtriya Janata Dal,39321,1839052,-0.33
+32,Arrah,51.81,48.96,R. K. Singh,5355965,Bharatiya Janata Party,Raju Yadav,4131534,Communist Party of India (Marxist-Leninist) (Liberation),147285,1224431,2.85
+33,Buxar,53.95,54.19,Ashwini Kumar Choubey,5993606,Bharatiya Janata Party,Jagadanand Singh,3696700,Rashtriya Janata Dal,117609,2296906,-0.24
+34,Sasaram,54.57,52.72,Chhedi Paswan,5182978,Bharatiya Janata Party,Meira Kumar,4705268,Indian National Congress,165745,477710,1.85
+35,Karakat,49.09,50.01,Mahabali Singh,4751927,Janata Dal (United),Upendra Kushwaha,4091482,Rashtriya Lok Samta Party,84542,660445,-0.92
+36,Jahanabad,51.76,57.04,Chandreshwar Prasad,5324206,Janata Dal (United),Surendra Prasad Yadav,6463297,Rashtriya Janata Dal,1751,-1139091,-5.28
+37,Aurangabad,53.67,51.19,Sushil Kumar Singh,5294415,Bharatiya Janata Party,Upendra Prasad,2963639,Hindustani Awam Morcha,72607,2330776,2.48
+38,Gaya,56.18,53.92,Vijay Kumar,6348940,Janata Dal (United),Jitan Ram Manjhi,4698107,Hindustani Awam Morcha,152426,1650833,2.26
+39,Nawada,49.73,52.18,Chandan Singh,,Lok Janshakti Party,Vibha Devi,,Rashtriya Janata Dal,148072,0,-2.45
+40,Jamui,55.25,50.01,Chirag Paswan,6527056,Lok Janshakti Party,Bhudeo Choudhary,4000083,Rashtriya Lok Samta Party,241049,2526973,5.24
